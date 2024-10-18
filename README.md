@@ -14,7 +14,7 @@ Program for classification biological data for gene comparaison
 ![Decision tree classification for 10 genes](kararAgaciOnGen.png)
 ![Random Forest classification for 10 genes ](RFOnGen.png)
 ![SVM classification for 10 genes](SVMOnGen.png)
-![Comparaison for alghorithms](karsilastirma.png)
+![Comparaison for alghorithms](Karsilastirma.png)
 
 
 ## Support
